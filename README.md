@@ -1,0 +1,2 @@
+# vitsikirja
+Kokoelma vitsejä
